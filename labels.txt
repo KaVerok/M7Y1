@@ -1,0 +1,4 @@
+0 cat
+1 sinichka
+2 golyb
+3 dog
